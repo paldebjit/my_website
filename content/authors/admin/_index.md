@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning for Electronic Design Automation (EDA)
+- System-on-Chip (SoC) Verification
+- Reconfigurable Computing, Compiler Optimizations for High-Performance Computing
+- Edge Intelligence (EI) as Service, Trustworthy EI
 
 # Education to show in About widget
 education:
@@ -45,7 +46,7 @@ social:
   link: 'mailto:debjit.pal@cornell.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=nbrD8ssAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/paldebjit
