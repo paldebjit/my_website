@@ -6,7 +6,7 @@ active: true
 
 headless: true
 
-weight: 50
+weight: 20
 
 title: Awards
 
