@@ -38,4 +38,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  spacing:
+    padding: ["15px", "0", "15px", "0"]
 ---

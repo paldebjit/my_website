@@ -14,6 +14,11 @@ weight: 10
 
 title: Biography
 
+design:
+  spacing:
+    padding: ["15px", "0", "15px", "0"]
+    
+
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself

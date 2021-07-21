@@ -5,7 +5,7 @@
 
 title: Debjit Pal # Website name
 baseurl: 'https://paldebjit.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© Debjit Pal {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

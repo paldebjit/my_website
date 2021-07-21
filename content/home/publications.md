@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 title: Publications
 subtitle: ''
@@ -35,6 +35,9 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  spacing:
+    padding: ["15px", "0", "15px", "0"]
+
 ---
 
 {{% callout note %}}

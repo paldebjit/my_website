@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Awards
-    url: '#awards'
+  - name: Research
+    url: '#research_agenda'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
     url: '#publications'
+    weight: 30
+  - name: Awards
+    url: '#awards'
+    weight: 40
+  - name: Talks
+    url: '#talks'
     weight: 50
 #  - name: Contact
 #    url: '#contact'
