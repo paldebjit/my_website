@@ -1,15 +1,17 @@
 ---
-title: ML and Reconfigurable Computing
-summary: An example of using the in-built project page.
+title: Application of ML
+summary: " "
+#An example of using the in-built project page.
 #tags:
 #- Deep Learning
-date: ""
+date: 2021-08-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
+#Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
@@ -29,6 +31,7 @@ links:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-# Write the details here
+
+#### Application of Machine Learning ####
 
 

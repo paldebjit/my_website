@@ -52,7 +52,9 @@ highlight_name: true
 
 ---
 
-Debjit Pal is a Post-Doctoral associate
+I am a Post-Doctoral associate in the School of Elctrical and Computer Engineering at Cornell University and a member of the Computer Systems Laboratory. My research concerns new algorithms, methodologies, and design automation tools for building correct and dependable computing systems via synergistic applications of specfication, architecture, and validation technologies. Specifically, my recent publications focus on post-silicon and pre-silicon validation of system-on-chips (SoCs), application of machine learning for high-level synthesis and hardware resiliency. My research has been recognized with IEEE CEDA Student Research Award (2016) and three best paper nominations (ICCAD'15, DAC'18, ASP-DAC'19).
+
+Prior to joining Cornell, I received my Ph.D. in Computer Engineering from the University of Illinois at Urbana-Champaign (UIUC). I have a B.Tech in Electronics Engineering from Jadavpur University and an M.S. in Computer Science from IIT Kharagpur.
 
 
 #### **Research Interests** ####
@@ -72,8 +74,8 @@ Debjit Pal is a Post-Doctoral associate
 #### **Professional Services** ####
 
 - ###### Technical Program Committee (TPC) Member
-    - Design Automation Conference (DAC) (2021, 2020)
-    - VLSI Design Conference (VLSID) (2021, 2020)
+    - Design Automation Conference (**DAC**) (2021, 2020)
+    - VLSI Design Conference (**VLSID**) (2021, 2020)
 - ###### Reviewer
     - <span style="color:blue">**Journal**:</span> **IEEE TVLSI** (2019, 2018, 2017), **IEEE TCAD** (2020, 2016), **IEEE TC** (2019), **ACM TODAES** (2019)
     - <span style="color:blue">**Conference**:</span> **DAC** (2019, 2018, 2017, 2016, 2015, 2014), **DATE** (2021, 2019, 2018, 2017), **ICCAD** (2018, 2017), **FMCAD** (2016), **IWLS** (2020), **FPGA** (2021), **ASPLOS-LATTE Workshop** (2021) 

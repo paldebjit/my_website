@@ -1,15 +1,17 @@
 ---
-title: Hardware Security Analysis
-summary: An example of using the in-built project page.
+title: Security Analysis
+summary: " "
+#Research related to hardware security asset protection
 #tags:
 #- Deep Learning
-date: ""
+date: 2021-08-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
+#Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
