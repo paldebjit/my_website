@@ -65,11 +65,16 @@ Prior to joining Cornell, I received my Ph.D. in Computer Engineering from the U
 
 
 #### **Education** ####
+- **Post-Doctoral Associate** in Electrical and Computer Engineering (Cornell University)
+    - Supervisor: Prof. Zhiru Zhang
 - **Ph.D.** in Electrical and Computer Engineering (UIUC 2019)
+    - Advisor: Prof. Shobha Vasudevan
     - Thesis: <a href="uploads/doctoral_dissertation_dpal2.pdf" target="_blank">Scalable Functional Validation of Next Generation SoCs</a>
 - **M.S** in Computer Science and Engineering (IIT Kharagpur, 2012)
+    - Advisors: Prof. Pallab Dasgupta and Prof. Siddhartha Mukhopadhyay
     - Thesis: <a href="uploads/master_dissertation_dpal2.pdf" target="_blank">Automated Mixed-Signal Verification using Monitors and Simulation Relations</a>
 - **B.E** in Electronics and Tele-Communication Engineering (Jadavpur University Kolkata, 2008)
+    - Advisor: Prof. Hiranmay Saha
 
 #### **Professional Services** ####
 
