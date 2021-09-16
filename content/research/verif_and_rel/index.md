@@ -1,5 +1,5 @@
 ---
-title: Verification and Reliability
+title: Hardware Verification
 summary: " "
 #Research related to hardware verification and hardware reliability
 #tags:
@@ -48,6 +48,8 @@ The quality of SoC verification and validation heavily depends on the quality of
 <p align="justify">
 Our SoC validation solutions are scalable and efficient. We consistently show orders of magnitude speedup improvements over the state-of-the-art while objectively improving quality of results. We have shown that going forward application-level analysis is the key to scale post-silicon validation to industrial scale SoCs. Our proposed validation solutions can plug into the existing industrial validation process to introduce automation in the current unsystematic, ad hoc, manual settings with multiple order of magnitudes of benefit.
 </p>
+
+#### 
 
 #### Hardware Reliability Estimation ####
 <p align="justify">

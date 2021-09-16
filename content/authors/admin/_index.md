@@ -51,11 +51,13 @@ highlight_name: true
 #- Teaching Assistant @ UIUC: Logic Synthesis([2013](https://courses.engr.illinois.edu/ece462/fa2013/), [2015](https://courses.engr.illinois.edu/ece462/fa2015/)), Computer Organization and Design ([2015](https://courses.engr.illinois.edu/ece411/sp2015/)), Digital System Laboratory (2016), Computer Systems and Programming (2016)
 
 ---
+<p align="justify">
+I am a Post-Doctoral associate in the School of Electrical and Computer Engineering at Cornell University and a member of the Computer Systems Laboratory. My research concerns new algorithms, methodologies, and design automation tools for building correct and dependable computing systems via synergistic applications of specification, architecture, and validation technologies. Specifically, my recent publications focus on post-silicon and pre-silicon validation of System-on-Chips (SoCs), application of machine learning for high-level synthesis and hardware resiliency, and security validation. My research has been recognized with IEEE CEDA Student Research Award (2016) and three best paper nominations (ICCAD'15, DAC'18, ASP-DAC'19).
+</p>
 
-I am a Post-Doctoral associate in the School of Elctrical and Computer Engineering at Cornell University and a member of the Computer Systems Laboratory. My research concerns new algorithms, methodologies, and design automation tools for building correct and dependable computing systems via synergistic applications of specfication, architecture, and validation technologies. Specifically, my recent publications focus on post-silicon and pre-silicon validation of system-on-chips (SoCs), application of machine learning for high-level synthesis and hardware resiliency. My research has been recognized with IEEE CEDA Student Research Award (2016) and three best paper nominations (ICCAD'15, DAC'18, ASP-DAC'19).
-
-Prior to joining Cornell, I received my Ph.D. in Computer Engineering from the University of Illinois at Urbana-Champaign (UIUC). I have a B.Tech in Electronics Engineering from Jadavpur University and an M.S. in Computer Science from IIT Kharagpur.
-
+<p align="justify">
+Prior to joining Cornell, I received my Ph.D. in Computer Engineering from the University of Illinois at Urbana-Champaign (UIUC). I have a B.E in Electronics Engineering from Jadavpur University and an M.S. in Computer Science from IIT Kharagpur.
+</p>
 
 #### **Research Interests** ####
 - Machine Learning for Electronic Design Automation (EDA)
