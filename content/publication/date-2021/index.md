@@ -13,7 +13,7 @@ author_notes:
 - "Equal Contribution"
 
 date: 2021-02-05
-#doi: ""
+doi: "https://doi.org/10.23919/DATE51398.2021.9474098"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2021-07-14T00:15:06-04:00
@@ -45,7 +45,7 @@ publication: "IEEE Design Automation and Test in Europe"
 ##   icon_pack: fab
 ##   icon: twitter
 #
-#url_pdf:
+url_pdf: "https://ieeexplore.ieee.org/document/9474098"
 #url_code:
 #url_dataset:
 #url_poster:
