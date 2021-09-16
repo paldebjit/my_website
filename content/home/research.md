@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 22
 
-title: ' ' 
+title: Research # Change later when you add research agenda and research future 
 subtitle: ''
 
 content:
@@ -25,7 +25,7 @@ design:
 
   view: 3
   spacing:
-    padding: ["0", "0", "0", "0"]
+    padding: ["15px", "0", "15px", "0"] # Change padding once you stub
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

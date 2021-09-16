@@ -4,7 +4,7 @@ summary: " "
 #Research related to hardware verification and hardware reliability
 #tags:
 #- Deep Learning
-date: 2021-08-01
+date: 2021-09-15
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

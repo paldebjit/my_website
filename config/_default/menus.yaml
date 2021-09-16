@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#research_agenda'
+    url: '#research'
     weight: 20
   - name: Publications
     url: '#publications'

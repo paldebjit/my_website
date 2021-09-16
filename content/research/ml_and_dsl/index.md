@@ -56,10 +56,3 @@ Progressive technology scaling and lowering operating voltages have made current
 Modern heterogeneous FPGA architectures incorporate a variety
 of hardened blocks, such as DSP blocks and carry blocks, to boost the performance of arithmetic-intensive designs. Since one can configure hardened blocks in different ways, a variety of datapath patterns can be mapped into these blocks. Existing high-level synthesis (HLS) tools, such as Vivado HLS, often fail to capture many such operation mapping patterns, leading to limited resource usage and delay estimation accuracy. In this research, (<a href="/publication/iccad-2020" target="_blank">ICCAD'20</a>) we propose to exploit graph-neural networks (GNN) to learn operation mapping patterns automatically. We apply GNN models that are trained on microbenchmarks directly to realistic designs through inductive learning. Our learned model can effectively infer various valid mapping patterns on both microbenchmarks and realistic designs. Furthermore, we leverage the proposed framework to improve the accuracy of delay estimation in HLS.
 </p>
-
-#### Application of ML in Trojan Detection in IP ####
-<p align="justify">
-
-</p>
-
-
